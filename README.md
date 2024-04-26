@@ -1,4 +1,4 @@
-# MERN Stack Application Deployment on Minikube Kubernetes Cluster.
+# MERN Stack Application Deployment on Minikube Kubernetes Cluster
 
 This repository contains the necessary files and configurations to deploy a MERN (MongoDB, Express.js, React, Node.js) stack web application in a Minikube Kubernetes cluster using a CI/CD pipeline.
 
